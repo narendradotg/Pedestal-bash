@@ -1,4 +1,1 @@
--pedestal
-=========
-
- pedestal
+Basic for bash/shell scripting.
